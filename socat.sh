@@ -8,7 +8,7 @@ export PATH
 #	Dscription: Socat一键脚本
 #	Version: 1.0
 #	Blog: http://www.vipkj.net
-#	Github:https://github.com/lzw981731/socat
+#	Github:https://github.com/ViporMiner/socat
 # ====================================================
 
 Green="\033[32m"
